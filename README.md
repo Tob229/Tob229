@@ -1,7 +1,5 @@
 # Welcome to the Void 🌌
 
-![Welcome to the Void](https://images.unsplash.com/photo-1582515073722-d43bc34bfb09)
-
 Hey there! I'm Calebe Donan HOUNGBEME, and you've stumbled upon the abyss of my GitHub. Welcome to the void where bytes roam free and code echoes through the digital expanse.
 
 ## About Me
@@ -20,6 +18,32 @@ This GitHub is a playground, a digital sanctuary where I experiment, learn, and 
 
 - **Collaborations**: I'm always open to collaborations and eager to contribute to exciting projects. Feel free to reach out if you're interested in teaming up!
 
+## Technologies & Skills
+
+Here are some of the languages, domains, and technologies I'm proficient in:
+
+### Languages:
+- Shell
+- Python
+- Rust
+
+### Domains:
+- DevOps
+- Cybersecurity
+- Systems Administration
+
+### Technologies:
+- Docker
+- AWS (Amazon Web Services)
+- Kali Linux
+- Ansible
+- Kubernetes
+- Terraform
+- Jenkins
+- Git
+- Elasticsearch
+- Splunk
+
 ## Get in Touch 📬
 
 Have a question, suggestion, or just want to connect? Don't hesitate to reach out! You can find me lurking in the depths of the digital universe:
@@ -36,4 +60,4 @@ _"In the vast expanse of the digital cosmos, let curiosity be your compass."_ �
 
 ![Exploring Together](https://images.unsplash.com/photo-1606667922093-1a68c03d74a8)
 
----
+--- 
