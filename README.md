@@ -43,6 +43,9 @@ Here are some of the languages, domains, and technologies I'm proficient in:
 - Git
 - Elasticsearch
 - Splunk
+- Prometheus
+- Vmware ESXI
+- linux
 
 ## Get in Touch 📬
 
