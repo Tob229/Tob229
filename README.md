@@ -44,6 +44,9 @@ Here are some of the languages, domains, and technologies I'm proficient in:
 - Terraform
 - Jenkins
 - Git
+- BackuPC
+- Bacula
+- Postgres , MySql
 - Elasticsearch
 - Splunk
 - Prometheus
