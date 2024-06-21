@@ -20,38 +20,11 @@ This GitHub is a playground, a digital sanctuary where I experiment, learn, and 
 
 ## Technologies & Skills
 
-Here are some of the languages, domains, and technologies I'm proficient in:
-
-### Languages:
-- Shell
-- Python
-- Rust
-
-### Domains:
-- DevOps
-- Cybersecurity
-- Systems Administration
-- Cloud Computing
-- App Sec
-- Network Denfense and Attack
-
-### Technologies:
-- Docker
-- AWS (Amazon Web Services)
-- Kali Linux
-- Ansible
-- Kubernetes
-- Terraform
-- Jenkins
-- Git
-- BackuPC
-- Bacula
-- Postgres , MySql
-- Elasticsearch
-- Splunk
-- Prometheus
-- Vmware ESXI
-- linux
+| **Category**    | **Technologies & Skills**                                           |
+|-----------------|---------------------------------------------------------------------|
+| **Languages**   | Shell, Python, Rust                                                 |
+| **Domains**     | DevOps, Cybersecurity, Systems Administration, Cloud Computing, App Sec, Network Defense and Attack |
+| **Technologies**| Docker, AWS (Amazon Web Services), Kali Linux, Ansible, Kubernetes, Terraform, Jenkins, Git, BackuPC, Bacula, Postgres, MySQL, Elasticsearch, Splunk, Prometheus, VMware ESXi, Linux |
 
 ## Get in Touch 📬
 
@@ -67,6 +40,6 @@ Thanks for dropping by! Whether you're a fellow explorer of the digital frontier
 
 _"In the vast expanse of the digital cosmos, let curiosity be your compass."_ 🌟
 
-![Exploring Together](https://img.freepik.com/photos-gratuite/vue-arriere-garde-securite-portant-casque-assis-son-bureau-dans-salle-surveillance_1142-50660.jpg?t=st=1715767493~exp=1715771093~hmac=9c2f49abbda29c85f938045af25450dadcde2d3d70ed5ecdb1ed8f610598466e&w=996)
+![Exploring Together](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZkdmV4a21iMDB2Znd4dGVpdXB1ajkzOWt6NW0weG1rdzNyeGlmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JTTAjM197sku8MgrRa/giphy.webp?)
 
---- 
+
